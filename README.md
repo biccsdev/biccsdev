@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Torres, you can find me online as @biccsdev</h1>
+<h1 align="center">Hi 👋, I'm Victor Torres</h1>
 <h3 align="center">I'm a Software Engineer based in Mexico, interested in technologies that will shape the future.</h3>
 
 - 🌱 I’m currently learning **Rust and @solana/web3.js**
@@ -22,7 +22,7 @@
 <a href="https://twitter.com/biccsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biccsdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/victor-torres-93408a229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-torres-93408a229" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15958197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15958197" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/biccsdev1079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biccsdev1079" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/biccsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biccsdev1079" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
