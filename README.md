@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **blockchain related projects**
 
-- 🤝 I’m looking for help with **my web3 journey**
+- 🤝 I’ve experience building APIs
 
 - 👨‍💻 All of my projects are available at [biccs.dev/projects](biccs.dev/projects)
 
