@@ -7,19 +7,19 @@
 
 - 🤝 I’ve experience building APIs
 
-- 👨‍💻 All of my projects are available at [biccs.tech/projects](biccs.tech/projects)
+- 👨‍💻 All of my projects are available at [biccs.tech/projects](https://www.biccs.tech/projects)
 
-- 📝 I regularly write articles on [biccs.tech/blogs](biccs.tech/blogs)
+- 📝 I regularly write articles on [biccs.tech/blogs](https://www.biccs.tech/blogs)
 
 - 💬 Ask me about **APIs, Innovative Technologies, Blockchain**
 
 - 📫 How to reach me **biccsdev@gmail.com**
 
-- 📄 Know about me [biccs.tech/about](biccs.tech/about)
+- 📄 Know about me [biccs.tech/about](https://www.biccs.tech/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/biccsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biccsdev" height="30" width="40" /></a>
+<a href="https://twitter.com/itsbiccs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biccsdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/victor-torres-93408a229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-torres-93408a229" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15958197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15958197" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/biccsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biccsdev1079" height="30" width="40" /></a>
