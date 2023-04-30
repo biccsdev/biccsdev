@@ -3,19 +3,19 @@
 
 - 🌱 I’m currently learning **Rust and @solana/web3.js**
 
-- 👯 I’m looking to collaborate on **blockchain related projects**
+- 👯 I’m looking to collaborate on **agile startups and high value projects**
 
 - 🤝 I’ve experience building APIs
 
-- 👨‍💻 All of my projects are available at [biccs.dev/projects](biccs.dev/projects)
+- 👨‍💻 All of my projects are available at [biccs.tech/projects](biccs.tech/projects)
 
-- 📝 I regularly write articles on [biccs.dev/blogs](biccs.dev/blogs)
+- 📝 I regularly write articles on [biccs.tech/blogs](biccs.tech/blogs)
 
-- 💬 Ask me about **APIs, Systems Architecture, Blockchain**
+- 💬 Ask me about **APIs, Innovative Technologies, Blockchain**
 
 - 📫 How to reach me **biccsdev@gmail.com**
 
-- 📄 Know about my experiences [biccs.dev/cv](biccs.dev/cv)
+- 📄 Know about me [biccs.tech/about](biccs.tech/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
