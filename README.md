@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [biccs.tech/blogs](https://www.biccs.tech/blogs)
 
-- 💬 Ask me about **APIs, Innovative Technologies, Blockchain**
+- 💬 Ask me about **APIs, Virtual and Augmented Reality, Blockchain**
 
 - 📫 How to reach me **biccsdev@gmail.com**
 
