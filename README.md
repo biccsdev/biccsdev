@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Torres</h1>
 <h3 align="center">I'm a Software Engineer based in Mexico, interested in technologies that will shape the future.</h3>
 
-- 🌱 I’m currently learning **Rust and @solana/web3.js**
+- 🌱 I’m currently building products to accelerate the economy of my local community
 
 - 👯 I’m looking to collaborate on **agile startups and high value projects**
 
