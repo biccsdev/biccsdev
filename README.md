@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **APIs, Virtual and Augmented Reality, Decentralization**
 
-- 📫 How to reach me **biccsdev@gmail.com**
+- 📫 Get in touch **biccsdev@gmail.com**
 
 - 📄 Know about me [biccs.tech/about](https://www.biccs.tech/about)
 
