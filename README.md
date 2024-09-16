@@ -3,19 +3,13 @@
 
 - 🌱 I’m currently building products that innovates the industry
 
-- 👯 I’m looking to collaborate on **agile startups and high value projects**
+- 👯 I’m looking to collaborate on **solana** projects
 
-- 🤝 I’ve experience building APIs
-
-- 👨‍💻 All of my projects are available at [biccs.tech/projects](https://www.biccs.tech/projects)
-
-- 📝 I regularly write articles on [biccs.tech/blogs](https://www.biccs.tech/blogs)
+- 🤝 I’ve experience building on the web
 
 - 💬 Ask me about **APIs, Virtual and Augmented Reality, Decentralization**
 
 - 📫 Get in touch **biccsdev@gmail.com**
-
-- 📄 Know about me [biccs.tech/about](https://www.biccs.tech/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
