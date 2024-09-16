@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Torres</h1>
 <h3 align="center">I'm a Software Engineer based in Mexico, interested in technologies that will shape the future.</h3>
 
-- 🌱 I’m currently building products that innovates the industry
+- 🌱 I’m currently building the new internet
 
 - 👯 I’m looking to collaborate on **solana** projects
 
