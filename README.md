@@ -53,7 +53,7 @@
 - [Credit Card Verifier](https://github.com/biccsdev/Credit-Card-Number-Verifier-Console-Cpplus) - C++
 
 ## 🌐 Open Source Contributions
-- [Shoggoth AI](https://github.com/shog-ai/shoggoth) - decentralized AI network
+- [Shoggoth AI](https://github.com/shog-ai/shoggoth) - decentralized peer to peer network
 - [3Land Minting Tool](https://github.com/3-land/minting-tool) - Open source minting tool
 
 ## 📫 Let's Connect
