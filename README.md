@@ -52,6 +52,10 @@
 - [TicTacToe Game](https://github.com/biccsdev/TicTacToe-Cpplus-Console) - Classic game in C++
 - [Credit Card Verifier](https://github.com/biccsdev/Credit-Card-Number-Verifier-Console-Cpplus) - C++
 
+## 🌐 Open Source Contributions
+- [Shoggoth AI](https://github.com/shog-ai/shoggoth) - decentralized AI network
+- [3Land Minting Tool](https://github.com/3-land/minting-tool) - Open source minting tool
+
 ## 📫 Let's Connect
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsbiccs)
 
