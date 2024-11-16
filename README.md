@@ -43,6 +43,7 @@
 - [ESP32 Project Library](https://github.com/biccsdev/esp32_projects) - Collection of IoT implementations
 
 ### 🎯 Miscellaneous
+- [Chat App](https://github.com/biccsdev/chat_websockets) - Real time chat app using websockets
 - [AR Christmas Decoration](https://github.com/biccsdev/christmas_gifts_ar) - Augmented reality experience
 - [Advent of Code](https://github.com/biccsdev/advent_of_code) - Programming challenges
 - [Baseball Twitter Bot](https://github.com/biccsdev/baseball_twitter_bot) - Automated sports updates
