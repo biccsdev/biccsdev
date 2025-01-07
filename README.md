@@ -54,6 +54,7 @@
 - [Credit Card Verifier](https://github.com/biccsdev/Credit-Card-Number-Verifier-Console-Cpplus) - C++
 
 ## 🌐 Open Source Contributions
+- [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - AI Agent for interacting with the solana blockchain
 - [Shoggoth AI](https://github.com/shog-ai/shoggoth) - decentralized peer to peer network
 - [3Land Minting Tool](https://github.com/3-land/minting-tool) - Open source minting tool
 
