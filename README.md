@@ -21,6 +21,9 @@
 
 ## 🚀 Projects
 
+### Featured ⚡️
+- [SummarizeXT](https://github.com/biccsdev/summarizeXT) - Browser extension that summarizes webpages using a LLM
+
 ### 🔧 Backend
 - [3Land Solana SDK](https://github.com/biccsdev/3land_sdk) - SDK for Solana blockchain integration
 - [Apartment Renting](https://github.com/biccsdev/apartmentRentBackend) - Rental property management system
